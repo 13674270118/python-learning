@@ -1,0 +1,36 @@
+创建一个文件夹：
+day8_module/
+
+里面创建两个文件：
+day8_module/
+├── main.py
+└── shop_utils.py
+
+shop_utils.py
+自己实现这三个函数：
+
+def calculate_total(price, quantity):
+    ...
+def apply_discount(total, discount):
+    ...
+def check_stock(stock, quantity):
+    ...
+
+要求：
+calculate_total(100, 3)
+→ 300
+apply_discount(300, 0.2)
+→ 240.0
+check_stock(10, 3)
+→ True
+check_stock(2, 3)
+→ False
+其中 discount=0.2 表示 20% off
+
+main.py
+要求：
+import shop_utils
+然后自己调用三个函数，打印类似：
+Total: 300
+After discount: 240.0
+Enough stock: True

@@ -1,0 +1,5 @@
+把代码拆成多个 .py 文件
+shop/
+├── main.py
+└── calculator.py
+创建 calculator.py
