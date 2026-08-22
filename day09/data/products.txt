@@ -1,0 +1,2 @@
+apple - Price: 5, Stock: 10
+mac - Price: 1000, Stock: 3

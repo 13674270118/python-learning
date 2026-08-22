@@ -1,0 +1,8 @@
+apple,3,15
+mac,1,1000
+apple,2,10
+apple,3,15
+mac,1,1000
+apple,3,15
+mac,1,1000
+apple,3,15apple,3,15
