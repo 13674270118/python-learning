@@ -1,0 +1,18 @@
+{
+    "apple": {
+        "price": 5,
+        "stock": 6
+    },
+    "mac": {
+        "price": 1000,
+        "stock": 3
+    },
+    "iphone": {
+        "price": 800.0,
+        "stock": 5
+    },
+    "test": {
+        "price": 10.0,
+        "stock": 5
+    }
+}
